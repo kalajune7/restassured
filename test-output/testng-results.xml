@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-08T15:58:19 IST" name="Default suite" finished-at="2023-05-08T15:58:22 IST" duration-ms="2903">
+  <suite started-at="2023-05-09T14:25:02 IST" name="Default suite" finished-at="2023-05-09T14:26:10 IST" duration-ms="67235">
     <groups>
     </groups>
-    <test started-at="2023-05-08T15:58:19 IST" name="Default test" finished-at="2023-05-08T15:58:22 IST" duration-ms="2903">
-      <class name="crudoperationswithoutBDD.createproj">
-        <test-method signature="create()[pri:0, instance:crudoperationswithoutBDD.createproj@33990a0c]" started-at="2023-05-08T15:58:19 IST" name="create" finished-at="2023-05-08T15:58:22 IST" duration-ms="2849" status="PASS">
+    <test started-at="2023-05-09T14:25:02 IST" name="Default test" finished-at="2023-05-09T14:26:10 IST" duration-ms="67235">
+      <class name="crudoperationdBDD.Reqres">
+        <test-method signature="req()[pri:0, instance:crudoperationdBDD.Reqres@212b5695]" started-at="2023-05-09T14:25:02 IST" name="req" finished-at="2023-05-09T14:26:10 IST" duration-ms="67169" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- create -->
-      </class> <!-- crudoperationswithoutBDD.createproj -->
+        </test-method> <!-- req -->
+      </class> <!-- crudoperationdBDD.Reqres -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

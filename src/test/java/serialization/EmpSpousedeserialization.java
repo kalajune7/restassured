@@ -20,6 +20,7 @@ public void empdeserial() throws JsonParseException, JsonMappingException, IOExc
 	System.out.println(data.getPhone()[0]);
 	System.out.println(data.getSpouse().getName());
 	System.out.println(data.getSpouse().getEmail());
+	
 	System.out.println(data.getSpouse().getPhone()[0]);
 	
 }
